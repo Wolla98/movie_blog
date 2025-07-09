@@ -1,6 +1,7 @@
 ---
 title: First Post
 published: 2025-07-09
+image: ./cover.jpg
 tags: [Blogs]
 category: General
 draft: false
