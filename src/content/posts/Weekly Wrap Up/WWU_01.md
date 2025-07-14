@@ -112,3 +112,9 @@ One thing I've always heard is that gunfights are just inherently boring scenes 
 The movie was really good, but it's a lot. Definitely not for everyone, but I liked it.
 
 **Strong 4 / 5**
+
+## Captain America: The First Avenger (2011)
+
+For some reason I decided to watch this again even though I've watched it 3 or 4 times already. Good beginning but falls off after he saves the 107th. Good ending though. Chris Evan's head on a little body looks weird and not just because it's Chris Evans.
+
+**Strong 2.5 / 5**
