@@ -1,6 +1,6 @@
 ---
 title: Weekly Wrap Up 1
-published: 2025-07-09
+published: 2025-07-14
 image: ./cover.jpg
 tags: [WWU]
 category: Weekly Wrap Up
