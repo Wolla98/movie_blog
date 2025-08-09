@@ -2,9 +2,11 @@
 title: Weekly Wrap Up 1
 published: 2025-07-14
 image: ./cover.jpg
+description: ''
 tags: [WWU]
 category: Weekly Wrap Up
 draft: false
+lang: ''
 ---
 
 

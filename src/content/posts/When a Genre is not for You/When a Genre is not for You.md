@@ -2,9 +2,11 @@
 title: When a Genre is not for You
 published: 2025-08-09
 image: ./cover.jpg
+description: ''
 tags: [Essay]
 category: Essay
 draft: false
+lang: ''
 ---
 
 
