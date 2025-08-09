@@ -3,7 +3,7 @@ title: Weekly Wrap Up 2
 published: 2025-07-28
 image: ./cover.jpg
 tags: [WWU]
-category: Weeky Wrap Up
+category: Weekly Wrap Up
 draft: false
 ---
 
